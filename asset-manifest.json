@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DPORT4/static/css/main.e0f69026.css",
+    "main.js": "/DPORT4/static/js/main.93911c7c.js",
+    "static/media/TAKUMIYFONTMINI_P.ttf": "/DPORT4/static/media/TAKUMIYFONTMINI_P.a735cbd9dc95539cc813.ttf",
+    "static/media/minster1.ttf": "/DPORT4/static/media/minster1.718fff0e18a1e187998f.ttf",
+    "static/media/vila madalena.ttf": "/DPORT4/static/media/vila madalena.f860ea522b3bb8147667.ttf",
+    "index.html": "/DPORT4/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e0f69026.css",
+    "static/js/main.93911c7c.js"
+  ]
+}
