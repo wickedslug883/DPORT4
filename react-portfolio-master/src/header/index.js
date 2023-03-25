@@ -18,7 +18,7 @@ const Headermain = () => {
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
           <div className="navHolder"> 
-          <img className="" src='/images/DPORTLOGO.png' alt="logo"></img>
+          <img className="" src='https://cdn.discordapp.com/attachments/304399938949742594/1089009150891151390/DPORTLOGO.png' alt="logo"></img>
           <Link  className="navbar-brand nav_ac" to="/">
             {logotext}
           </Link>
